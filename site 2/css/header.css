@@ -1,0 +1,58 @@
+.header {
+  background-color: black;
+  font-family: "Raleway", sans-serif;
+  width: 1920px;
+}
+
+.header__left {
+  display: flex;
+  gap: 40px;
+}
+
+.header__container {
+  display: flex;
+  column-gap: 5px;
+  align-items: center;
+  justify-content: space-evenly;
+  margin-top: 15px;
+}
+
+.header__right {
+  display: flex;
+  gap: 40px;
+}
+
+.header__navmenu {
+  display: flex;
+  gap: 40px;
+}
+
+.img1 {
+  width: 25px;
+  height: 25px;
+}
+
+.img2 {
+  width: 25px;
+  height: 25px;
+}
+
+.img3 {
+  width: 25px;
+  height: 25px;
+}
+
+.img4 {
+  width: 25px;
+  height: 25px;
+}
+
+.header__images {
+  display: flex;
+  gap: 30px;
+  margin-left: 100px;
+}
+
+ul {
+  gap: 50px;
+}
